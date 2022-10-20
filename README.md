@@ -146,7 +146,17 @@ int main(void)
 
 ### Output screen shots :
 
+LED OFF
 
+![image](https://user-images.githubusercontent.com/94828335/196002214-c9349606-9b63-49df-b106-13712b7eabcc.png)
+
+LED ON
+
+![image](https://user-images.githubusercontent.com/94828335/196002222-7d51b883-3a9e-4f50-ae34-5140d35c7daf.png)
+
+CIRCUIT DIAGRAM
+
+![image](https://user-images.githubusercontent.com/94828335/196002228-886ea930-2d57-4b6b-a2db-ab910bd971b8.png)
 
 ### Result :
 Interfacing a digital output with ARM microcontroller is executed 
